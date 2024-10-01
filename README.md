@@ -1,1 +1,1 @@
-"# Simple_CoffeeShop_Design" 
+# Simple_CoffeeShop_Design 
